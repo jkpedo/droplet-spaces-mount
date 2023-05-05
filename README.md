@@ -1,4 +1,4 @@
-# Mount DigitalOcean Spaces for a file system with petabytes of capacity
+# Mounting DigitalOcean Spaces to a DigitalOcean Droplet for unlimited storage capacity
 
 ## About this guide
 
